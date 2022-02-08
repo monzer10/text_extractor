@@ -61,9 +61,10 @@ Monzer Salah
     – twitter: [@monzer404](https://www.twitter.com/monzer404) 
     – linkedin: [Monzer Salah](https://www.linkedin.com/in/monzer-salah-b83475201/)
 
-Distributed under the XYZ license. See ``LICENSE`` for more information.
 
-[https://github.com/yourname/github-link](https://github.com/dbader/)
+## License
+
+DON't STEAL MY WORK
 
 
 ## Contributing
