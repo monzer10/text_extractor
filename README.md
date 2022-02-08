@@ -78,4 +78,4 @@ DON't STEAL MY WORK
 
 1. make the tool supports a new language
 2. make it more user friendly
-3. fix (see fixme.txt)
+3. fix (see fixme.md)
