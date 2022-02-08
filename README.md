@@ -9,8 +9,7 @@ I've created this tool to help me summarize my audio lectures.
 
 ## Installation
 
-This is a basic version downloading is NOT recommended. however, you can download:
-ZIP version from (https://github.com/monzer10/text_extractor.git)
+This is a basic version downloading is NOT recommended.
 
 
 ## Usage example
