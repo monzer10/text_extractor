@@ -27,6 +27,10 @@ for example:
 python3 __init__.py en.wav en-US
 ```
 
+# list of valid lang codes:
+1. ar
+2. en
+
 
 ## Development setup
 
