@@ -49,6 +49,12 @@ NOTE: you might need to use (pip or pip3) depending on the version you have. how
 use either one if didn't work use the other
 
 
+## refernces
+
+[The Ultimate Guide To Speech Recognition With Python](https://realpython.com/python-speech-recognition/)
+[Right-to-Left and Left-to-Right printed nicely](https://stackoverflow.com/questions/42556063/right-to-left-and-left-to-right-printed-nicely)
+
+
 ## Release History
 
 * 0.2.1
